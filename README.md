@@ -21,7 +21,7 @@ The supply is capped forever. No inflation.
 |-------------------|-------------|----------------|-----------------|
 | Community Rewards | **35%**     | 350,000,000    | Distributed via Arcane Academy quests, tournaments, and missions over 4 years. Declining emissions each year. |
 | Team & Advisors   | **20%**     | 200,000,000    | 1-year cliff, then 3-year linear vesting. Long-term alignment. |
-| Treasury & Growth | **20%**     | 200,000,000    | DAO-controlled, used for partnerships, liquidity, expansion. |
+| Treasury & Growth | **20%**     | 200,000,000    | DAO-controlled, used for partnerships, liquidity, expansion and operational expenses (including salaries for moderators, community managers, and core contributors). |
 | Investors         | **15%**     | 150,000,000    | Vesting schedule: 20% TGE, remainder over 18 months. |
 | Initial Liquidity | **5%**      | 50,000,000     | Locked in DEX liquidity pools for price stability. |
 | Airdrops & Promo  | **5%**      | 50,000,000     | For early adopters, KOL collabs, and onboarding. |
