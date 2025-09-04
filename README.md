@@ -12,19 +12,19 @@ Our mission: **Turn knowledge into wealth.**
 - **Total Supply:** 1,000,000,000 AOD (fixed, no minting)  
 - **Decimals:** 18  
 
-The supply is capped forever. No inflation.
+The supply is capped forever. A deflationary mechanism is integrated to ensure scarcity.
 
 ---
 
 ## 📊 Distribution
 | Allocation        | % of Supply | Tokens         | Vesting / Notes |
 |-------------------|-------------|----------------|-----------------|
-| Community Rewards | **35%**     | 350,000,000    | Distributed via Arcane Academy quests, tournaments, and missions over 4 years. Declining emissions each year. |
-| Team & Advisors   | **20%**     | 200,000,000    | 1-year cliff, then 3-year linear vesting. Long-term alignment. |
-| Treasury & Growth | **20%**     | 200,000,000    | DAO-controlled, used for partnerships, liquidity, expansion and operational expenses (including salaries for moderators, community managers, and core contributors). |
-| Investors         | **15%**     | 150,000,000    | Vesting schedule: 20% TGE, remainder over 18 months. |
-| Initial Liquidity | **5%**      | 50,000,000     | Locked in DEX liquidity pools for price stability. |
-| Airdrops & Promo  | **5%**      | 50,000,000     | For early adopters, KOL collabs, and onboarding. |
+| Community Rewards | **35%** | 350,000,000    | Distributed via Arcane Academy quests, tournaments, and missions over 4 years. Declining emissions each year. |
+| Team & Advisors   | **20%** | 200,000,000    | 1-year cliff, then 3-year linear vesting. Long-term alignment. |
+| Treasury & Growth | **20%** | 200,000,000    | DAO-controlled, used for partnerships, liquidity, expansion and operational expenses (including salaries for moderators, community managers, and core contributors). |
+| Investors         | **15%** | 150,000,000    | Vesting schedule: 20% released at Token Generation Event (TGE), remainder over 18 months. |
+| Initial Liquidity | **5%** | 50,000,000     | Locked in DEX liquidity pools (Raydium, Jupiter) for price stability. |
+| Airdrops & Promo  | **5%** | 50,000,000     | For early adopters, KOL collaborations, and onboarding campaigns. |
 
 ---
 
@@ -53,10 +53,18 @@ $AOD fuels the Arcane Academy ecosystem:
 
 ---
 
+## 🔥 Deflationary Mechanics
+To counteract selling pressure and ensure long-term value, AOD incorporates two powerful burn mechanisms:
+
+1.  **Automatic Transaction Burn:** A small percentage of every on-chain transaction involving AOD is automatically burned and removed from the total supply. This creates a consistent, protocol-level deflationary pressure that directly scales with ecosystem activity.
+2.  **Burn-to-Access Model:** To unlock premium classes, exclusive access rights, and specific digital goods, users must burn a set amount of AOD. This creates a direct utility "sink" for the token, aligning user value with token scarcity.
+
+---
+
 ## 🔒 Anti-Dump Mechanisms
 - **Vesting:** Team & investors locked via cliffs + linear vesting.  
-- **Phased Rewards:** Campaign prizes split across multiple releases (e.g., 50% upfront, 50% after 30 days).  
-- **Utility Sinks:** Premium classes, digital goods, and tournament entries consume tokens.  
+- **Phased Rewards:** Campaign prizes are split across multiple releases (e.g., 50% upfront, 50% after 30 days).  
+- **Utility Sinks:** The burn-to-access model ensures that premium content and digital goods consume tokens.  
 - **Treasury Buybacks (DAO):** A portion of DAO profits is allocated to buying back $AOD on the market.  
 
 ---
@@ -69,10 +77,8 @@ $AOD fuels the Arcane Academy ecosystem:
 ---
 
 ## ✅ Summary
-- **Fixed Supply:** 1B $AOD  
-- **Sustainable Rewards:** Declining emissions over 4 years  
-- **Strong Utility:** Learning, governance, staking, and access  
-- **Anti-Dump Design:** Vesting, phased rewards, and token sinks  
+- **Fixed & Deflationary Supply:** 1B $AOD with built-in burn mechanisms.  
+- **Sustainable Rewards:** Declining emissions over 4 years.  
+- **Strong Utility:** Learning, governance, staking, and access.  
+- **Anti-Dump Design:** Vesting, phased rewards, and token sinks.  
 - **Goal:** Scale Arcane Academy into a **multi-billion dollar Learn2Earn ecosystem**.
-
----
